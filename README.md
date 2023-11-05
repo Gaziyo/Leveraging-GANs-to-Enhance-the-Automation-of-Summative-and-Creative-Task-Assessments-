@@ -1,8 +1,6 @@
 # Leveraging-GANs-to-Enhance-the-Automation-of-Summative-and-Creative-Task-Assessments-
 Leveraging Generative Adversarial Networks (GANs) to Enhance the Automation of Summative and Creative Task Assessments for Streamlined Evaluation Processes.
 
-# Leveraging Generative Adversarial Networks (GANs) to Enhance the Automation of Summative and Creative Task Assessments for Streamlined Evaluation Processes
-
 Author**: Ghazi, Shiva, Johnathan, Naman , Sanjaya 
 Affiliation**: Deakin University  
 Date**: November 6, 2023
